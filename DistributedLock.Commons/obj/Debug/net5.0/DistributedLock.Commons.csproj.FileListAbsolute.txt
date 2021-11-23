@@ -1,0 +1,12 @@
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\bin\Debug\net5.0\DistributedLock.Commons.deps.json
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\bin\Debug\net5.0\DistributedLock.Commons.dll
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\bin\Debug\net5.0\ref\DistributedLock.Commons.dll
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\bin\Debug\net5.0\DistributedLock.Commons.pdb
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\obj\Debug\net5.0\DistributedLock.Commons.csproj.AssemblyReference.cache
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\obj\Debug\net5.0\DistributedLock.Commons.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\obj\Debug\net5.0\DistributedLock.Commons.AssemblyInfoInputs.cache
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\obj\Debug\net5.0\DistributedLock.Commons.AssemblyInfo.cs
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\obj\Debug\net5.0\DistributedLock.Commons.csproj.CoreCompileInputs.cache
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\obj\Debug\net5.0\DistributedLock.Commons.dll
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\obj\Debug\net5.0\ref\DistributedLock.Commons.dll
+c:\Projects\Study\CSharp-Study\concepts\distributed-lock-redis\DistributedLock.Commons\obj\Debug\net5.0\DistributedLock.Commons.pdb

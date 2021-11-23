@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\DistributedLock.Commons\DistributedLock.Commons.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.Extensions.Caching.Redis" Version="2.2.0" />
+      <PackageReference Include="Scrutor" Version="3.3.0" />
+      <PackageReference Include="StackExchange.Redis" Version="2.2.88" />
+      <PackageReference Include="StackExchange.Redis.Extensions" Version="1.0.1" />
+      <PackageReference Include="StackExchange.Redis.Extensions.AspNetCore" Version="7.1.1" />
+      <PackageReference Include="StackExchange.Redis.Extensions.System.Text.Json" Version="7.1.1" />
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    </ItemGroup>
+
+    <Target Name="ChangeAliasesOfStrongNameAssemblies" BeforeTargets="FindReferenceAssembliesForReferences;ResolveReferences">
+        <ItemGroup>
+          <ReferencePath Condition="'%(FileName)' == 'StackExchange.Redis.StrongName'">
+            <Aliases>signed</Aliases>
+          </ReferencePath>
+        </ItemGroup>
+      </Target>
+</Project>
